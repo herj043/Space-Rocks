@@ -1,7 +1,10 @@
 {
   "resources": [
     {"id":{"name":"obj_Player_Ship","path":"objects/obj_Player_Ship/obj_Player_Ship.yy",},"order":0,},
+    {"id":{"name":"spr_Asterorid_Small","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"order":1,},
+    {"id":{"name":"spr_Asteroid_Huge","path":"sprites/spr_Asteroid_Huge/spr_Asteroid_Huge.yy",},"order":3,},
     {"id":{"name":"spr_Player_Ship","path":"sprites/spr_Player_Ship/spr_Player_Ship.yy",},"order":0,},
+    {"id":{"name":"spr_Asteroid_Med","path":"sprites/spr_Asteroid_Med/spr_Asteroid_Med.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
