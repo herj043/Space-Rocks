@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 15,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 17,
-  "height": 17,
+  "width": 16,
+  "height": 16,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"99bd1add-2bfe-4f71-bd13-2704b740bb3b","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99bd1add-2bfe-4f71-bd13-2704b740bb3b","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"LayerId":{"name":"e72d8048-732f-4f5b-a57d-f3dfb775be07","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Asterorid_Small","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","name":"99bd1add-2bfe-4f71-bd13-2704b740bb3b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b7ae978b-0527-4260-91ac-96175b542c90","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b7ae978b-0527-4260-91ac-96175b542c90","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"LayerId":{"name":"c629f66f-e483-40d3-860b-875e66e99f0d","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Asterorid_Small","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","name":"b7ae978b-0527-4260-91ac-96175b542c90","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_Asterorid_Small","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"639232e2-3ecf-40c8-92d1-252b2dae1629","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99bd1add-2bfe-4f71-bd13-2704b740bb3b","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e753a627-367c-487f-bbbe-4e3e319c06e2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7ae978b-0527-4260-91ac-96175b542c90","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e72d8048-732f-4f5b-a57d-f3dfb775be07","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c629f66f-e483-40d3-860b-875e66e99f0d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
