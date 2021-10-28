@@ -9,7 +9,10 @@ if(keyboard_check(vk_right)){
 
 if(keyboard_check(vk_up)){
 	motion_add(image_angle, 0.05);
-	
+	sprite_index = choose(spr_Player_Ship_On)
+}
+else{
+	sprite_index = choose(spr_Player_Ship_Off)
 }
 
 if(keyboard_check(vk_down)){
