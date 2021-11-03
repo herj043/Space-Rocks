@@ -2,7 +2,7 @@
 // You can write your code in this editor
 sprite_index = choose(
 	spr_Asteroid_Huge,spr_Asteroid_Med,
-	spr_Asterorid_Small
+	spr_Asteroid_Small
 );
 
 direction = irandom_range(0,359);

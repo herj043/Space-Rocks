@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Player_Ship_Bullet",
-    "path": "sprites/spr_Player_Ship_Bullet/spr_Player_Ship_Bullet.yy",
+    "name": "spr_Player_Ship_Line_of_sight",
+    "path": "sprites/spr_Player_Ship_Line_of_sight/spr_Player_Ship_Line_of_sight.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":1,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Player_Bullet",
+  "name": "obj_Player_Sight",
   "tags": [],
   "resourceType": "GMObject",
 }

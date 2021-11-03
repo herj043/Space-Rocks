@@ -1,7 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+///Player Ship Line of sight
+if(keyboard_check(vk_shift)){
+	var inst = instance_create_layer(x,y, "Instances", obj_Player_Sight);
+	inst.direction = image_angle;
 
+}
 
 ///Player Ship Left Rotation
 //Current State = Complete
@@ -68,9 +73,8 @@ if(keyboard_check_pressed(vk_down)){
 	if(keyboard_check_pressed(vk_down)){
 		motion_add(image_angle, +20);
 	}
-	motion_add(image_angle, +3);
+	motion_add(image_angle, +5);
 	
-
 }
 if(keyboard_check_released(vk_down)){
 	motion_add(image_angle, -20);

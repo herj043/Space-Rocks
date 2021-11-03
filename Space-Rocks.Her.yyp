@@ -1,13 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"obj_Player_Sight","path":"objects/obj_Player_Sight/obj_Player_Sight.yy",},"order":3,},
     {"id":{"name":"obj_Player_Ship","path":"objects/obj_Player_Ship/obj_Player_Ship.yy",},"order":0,},
-    {"id":{"name":"spr_Asterorid_Small","path":"sprites/spr_Asterorid_Small/spr_Asterorid_Small.yy",},"order":1,},
+    {"id":{"name":"spr_Asteroid_Small","path":"sprites/spr_Asteroid_Small/spr_Asteroid_Small.yy",},"order":1,},
     {"id":{"name":"spr_Asteroid_Huge","path":"sprites/spr_Asteroid_Huge/spr_Asteroid_Huge.yy",},"order":3,},
     {"id":{"name":"spr_Player_Ship_Bullet","path":"sprites/spr_Player_Ship_Bullet/spr_Player_Ship_Bullet.yy",},"order":5,},
     {"id":{"name":"spr_Player_Ship_Off","path":"sprites/spr_Player_Ship_Off/spr_Player_Ship_Off.yy",},"order":0,},
     {"id":{"name":"spr_Asteroid_Med","path":"sprites/spr_Asteroid_Med/spr_Asteroid_Med.yy",},"order":2,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":1,},
     {"id":{"name":"obj_Player_Bullet","path":"objects/obj_Player_Bullet/obj_Player_Bullet.yy",},"order":2,},
+    {"id":{"name":"spr_Player_Ship_Line_of_sight","path":"sprites/spr_Player_Ship_Line_of_sight/spr_Player_Ship_Line_of_sight.yy",},"order":6,},
     {"id":{"name":"spr_Player_Ship_On","path":"sprites/spr_Player_Ship_On/spr_Player_Ship_On.yy",},"order":4,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
