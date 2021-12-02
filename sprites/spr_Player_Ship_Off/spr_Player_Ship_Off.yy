@@ -93,8 +93,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Ship",
+    "path": "folders/Sprites/Player/Ship.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Player_Ship_Off",

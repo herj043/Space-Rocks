@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bullet",
+    "path": "folders/Sprites/Player/Bullet.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Player_Ship_Bullet",
